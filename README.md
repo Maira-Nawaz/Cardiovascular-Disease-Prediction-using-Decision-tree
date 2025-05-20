@@ -66,6 +66,7 @@ This project gave me hands-on experience in:
 ## 📎 Author
 
 **Maira Nawaz**
-[https://www.linkedin.com/in/mairanawaz/](#) | [https://www.kaggle.com/mairanawaz](#) | [https://github.com/Maira-Nawaz](#)
+
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [https://www.kaggle.com/mairanawaz](#) | [https://github.com/Maira-Nawaz](#)
 
 
