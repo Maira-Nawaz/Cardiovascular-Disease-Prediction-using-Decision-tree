@@ -2,14 +2,13 @@
 
 Predicting the presence of cardiovascular disease using health data and Decision Tree classification.
 
-
 ##  Project Overview
 
 This project was completed as part of a **Kaggle competition**, where the objective was to build a machine learning model that can **predict whether a patient has cardiovascular disease** based on features such as age, blood pressure, cholesterol levels, lifestyle habits, etc.
 
 I used a **Decision Tree Classifier** from `scikit-learn` to build the model and achieved a **Kaggle leaderboard score of 0.71500** 🎯.
 
----
+
 
 ##  Dataset Description
 
@@ -32,13 +31,13 @@ I used a **Decision Tree Classifier** from `scikit-learn` to build the model and
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
-* Python 🐍
+* Python 
 * `pandas`, `numpy` for data handling
 * `scikit-learn` for modeling and evaluation
 
----
+
 
 ##  Model & Evaluation
 
@@ -46,7 +45,7 @@ I used a **Decision Tree Classifier** from `scikit-learn` to build the model and
 
 * `DecisionTreeClassifier()` from `sklearn.tree`
 
-### 📈 Evaluation Metrics:
+###  Evaluation Metrics:
 
 * **Accuracy:** `~72%` on validation set
 * **Precision, Recall, F1-Score:** Computed using `classification_report`
@@ -66,7 +65,7 @@ This project gave me hands-on experience in:
 
 ## 📎 Author
 
-**Anum**
-[LinkedIn Profile](#) | [Kaggle Profile](#) | [GitHub](#)
+**Maira Nawaz**
+[https://www.linkedin.com/in/mairanawaz/](#) | [https://www.kaggle.com/mairanawaz](#) | [https://github.com/Maira-Nawaz](#)
 
 
