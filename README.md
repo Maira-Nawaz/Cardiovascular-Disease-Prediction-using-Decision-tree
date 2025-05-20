@@ -29,8 +29,7 @@ I used a **Decision Tree Classifier** from `scikit-learn` to build the model and
 * `cholesterol`, `gluc`: Blood test results (1 = normal, 2 = above normal, 3 = well above normal)
 * `smoke`, `alco`, `active`: Lifestyle indicators
 
----
-
+  
 ##  Tools & Libraries Used
 
 * Python 
@@ -38,21 +37,19 @@ I used a **Decision Tree Classifier** from `scikit-learn` to build the model and
 * `scikit-learn` for modeling and evaluation
 
 
-
 ##  Model & Evaluation
 
 ###  Model Used:
 
 * `DecisionTreeClassifier()` from `sklearn.tree`
-
+  
 ###  Evaluation Metrics:
 
 * **Accuracy:** `~72%` on validation set
 * **Precision, Recall, F1-Score:** Computed using `classification_report`
 * **Kaggle Score:** `0.71500`
 
-
-
+  
 ##  Final Thoughts
 
 This project gave me hands-on experience in:
@@ -61,12 +58,11 @@ This project gave me hands-on experience in:
 * Preparing a Kaggle-ready submission
 * Evaluating model performance with meaningful metrics
 
----
-
-## 📎 Author
+  
+##  Author
 
 **Maira Nawaz**
 
-[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [https://www.kaggle.com/mairanawaz](#) | [https://github.com/Maira-Nawaz](#)
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
 
 
